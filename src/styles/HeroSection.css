@@ -47,7 +47,6 @@ video {
   @media screen and (max-width: 960px) {
     .hero-container > h1 {
       font-size: 70px;
-      background-color: red;
       margin-top: -150px;
     }
   }
