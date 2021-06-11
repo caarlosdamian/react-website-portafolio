@@ -1,6 +1,7 @@
-{
-  "homepage": "http",
-  "name":"http://caarlosdamian.github.io/react-website-portafolio",
+{ 
+
+  "homepage":  "http://caarlosdamian.github.io/react-website-portafolio",
+  "name": "react-website-portafolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -15,7 +16,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy":"gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
