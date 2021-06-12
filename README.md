@@ -1,12 +1,18 @@
-# Getting Started with Create React App
+# Cool Landing page 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live Demo [Demo](https://caarlosdamian.github.io/react-website-portafolio/#/).
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you need to run:
+ 
+### `npm install` or `yarn install`
 
-### `yarn start`
+Then you will have all the dependencies need it to run it with
+
+### `yarn start` or `npm start`
+
+
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
