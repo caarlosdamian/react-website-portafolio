@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/caarlos-damian/static/css/main.f11d22a8.chunk.css",
-    "main.js": "/caarlos-damian/static/js/main.5f17b6ab.chunk.js",
-    "main.js.map": "/caarlos-damian/static/js/main.5f17b6ab.chunk.js.map",
-    "runtime-main.js": "/caarlos-damian/static/js/runtime-main.30a4d00d.js",
-    "runtime-main.js.map": "/caarlos-damian/static/js/runtime-main.30a4d00d.js.map",
-    "static/js/2.d4bbfce0.chunk.js": "/caarlos-damian/static/js/2.d4bbfce0.chunk.js",
-    "static/js/2.d4bbfce0.chunk.js.map": "/caarlos-damian/static/js/2.d4bbfce0.chunk.js.map",
-    "index.html": "/caarlos-damian/index.html",
-    "static/css/main.f11d22a8.chunk.css.map": "/caarlos-damian/static/css/main.f11d22a8.chunk.css.map",
-    "static/js/2.d4bbfce0.chunk.js.LICENSE.txt": "/caarlos-damian/static/js/2.d4bbfce0.chunk.js.LICENSE.txt",
-    "static/media/Drone.79aa5850.JPG": "/caarlos-damian/static/media/Drone.79aa5850.JPG",
-    "static/media/Laura.23e3cc7b.JPG": "/caarlos-damian/static/media/Laura.23e3cc7b.JPG",
-    "static/media/humanresource.b7d1b800.JPG": "/caarlos-damian/static/media/humanresource.b7d1b800.JPG",
-    "static/media/App.css": "/caarlos-damian/static/media/img-8.fabdf94d.jpg",
-    "static/media/login.530dcf93.JPG": "/caarlos-damian/static/media/login.530dcf93.JPG",
-    "static/media/todoList.4e1240cd.JPG": "/caarlos-damian/static/media/todoList.4e1240cd.JPG",
-    "static/media/video-1.59e75226.mp4": "/caarlos-damian/static/media/video-1.59e75226.mp4"
+    "main.css": "/react-website-portafolio/static/css/main.db0b11f2.chunk.css",
+    "main.js": "/react-website-portafolio/static/js/main.5f17b6ab.chunk.js",
+    "main.js.map": "/react-website-portafolio/static/js/main.5f17b6ab.chunk.js.map",
+    "runtime-main.js": "/react-website-portafolio/static/js/runtime-main.3a3fca81.js",
+    "runtime-main.js.map": "/react-website-portafolio/static/js/runtime-main.3a3fca81.js.map",
+    "static/js/2.d4bbfce0.chunk.js": "/react-website-portafolio/static/js/2.d4bbfce0.chunk.js",
+    "static/js/2.d4bbfce0.chunk.js.map": "/react-website-portafolio/static/js/2.d4bbfce0.chunk.js.map",
+    "index.html": "/react-website-portafolio/index.html",
+    "static/css/main.db0b11f2.chunk.css.map": "/react-website-portafolio/static/css/main.db0b11f2.chunk.css.map",
+    "static/js/2.d4bbfce0.chunk.js.LICENSE.txt": "/react-website-portafolio/static/js/2.d4bbfce0.chunk.js.LICENSE.txt",
+    "static/media/Drone.79aa5850.JPG": "/react-website-portafolio/static/media/Drone.79aa5850.JPG",
+    "static/media/Laura.23e3cc7b.JPG": "/react-website-portafolio/static/media/Laura.23e3cc7b.JPG",
+    "static/media/humanresource.b7d1b800.JPG": "/react-website-portafolio/static/media/humanresource.b7d1b800.JPG",
+    "static/media/App.css": "/react-website-portafolio/static/media/img-8.fabdf94d.jpg",
+    "static/media/login.530dcf93.JPG": "/react-website-portafolio/static/media/login.530dcf93.JPG",
+    "static/media/todoList.4e1240cd.JPG": "/react-website-portafolio/static/media/todoList.4e1240cd.JPG",
+    "static/media/video-1.59e75226.mp4": "/react-website-portafolio/static/media/video-1.59e75226.mp4"
   },
   "entrypoints": [
-    "static/js/runtime-main.30a4d00d.js",
+    "static/js/runtime-main.3a3fca81.js",
     "static/js/2.d4bbfce0.chunk.js",
-    "static/css/main.f11d22a8.chunk.css",
+    "static/css/main.db0b11f2.chunk.css",
     "static/js/main.5f17b6ab.chunk.js"
   ]
 }
