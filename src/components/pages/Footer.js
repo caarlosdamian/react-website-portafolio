@@ -27,7 +27,7 @@ function Footer() {
         <div className="footer-link-wrapper">
           <div class="footer-link-items">
             <h2>About me</h2>
-            <Link to="/sign-up">About me</Link>
+            <Link to="-aboutme">About me</Link>
           </div>
           <div class="footer-link-items">
             <h2>Portafolio</h2>
@@ -37,12 +37,12 @@ function Footer() {
       </div>
       <section class="social-media">
         <div class="social-media-wrap">
-          <div class="footer-logo">
+          {/* <div class="footer-logo">
             <Link to="/" className="social-logo">
               CEDP
             </Link>
-          </div>
-          <small class="website-rights">Carlos Damian © 2020</small>
+          </div> */}
+          <small class="website-rights">&copy;2021 Carlos Damian</small>
           <div class="social-icons">
             <Link
               class="social-icon-link twitter"
