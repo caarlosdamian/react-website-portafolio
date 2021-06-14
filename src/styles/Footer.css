@@ -107,7 +107,7 @@
   .social-media-wrap {
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    align-items:center;
     width: 90%;
     max-width: 1000px;
     margin: 40px auto 0 auto;

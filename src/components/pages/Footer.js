@@ -37,22 +37,12 @@ function Footer() {
       </div>
       <section class="social-media">
         <div class="social-media-wrap">
-          {/* <div class="footer-logo">
+          <div class="footer-logo">
             <Link to="/" className="social-logo">
-              CEDP
-            </Link>
-          </div> */}
-          <small class="website-rights">&copy;2021 Carlos Damian</small>
-          <div class="social-icons">
-            <Link
-              class="social-icon-link twitter"
-              to="/"
-              target="_blank"
-              aria-label="LinkedIn"
-            >
-              <i class="fab fa-linkedin" />
+              Carlos
             </Link>
           </div>
+          <small class="website-rights">&copy;2021 Carlos Damian</small>
         </div>
       </section>
     </div>
