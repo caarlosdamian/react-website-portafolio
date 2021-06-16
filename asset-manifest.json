@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-website-portafolio/static/css/main.db0b11f2.chunk.css",
-    "main.js": "/react-website-portafolio/static/js/main.5f17b6ab.chunk.js",
-    "main.js.map": "/react-website-portafolio/static/js/main.5f17b6ab.chunk.js.map",
+    "main.js": "/react-website-portafolio/static/js/main.b85f09b9.chunk.js",
+    "main.js.map": "/react-website-portafolio/static/js/main.b85f09b9.chunk.js.map",
     "runtime-main.js": "/react-website-portafolio/static/js/runtime-main.3a3fca81.js",
     "runtime-main.js.map": "/react-website-portafolio/static/js/runtime-main.3a3fca81.js.map",
     "static/js/2.d4bbfce0.chunk.js": "/react-website-portafolio/static/js/2.d4bbfce0.chunk.js",
@@ -16,12 +16,12 @@
     "static/media/App.css": "/react-website-portafolio/static/media/img-8.fabdf94d.jpg",
     "static/media/login.530dcf93.JPG": "/react-website-portafolio/static/media/login.530dcf93.JPG",
     "static/media/todoList.4e1240cd.JPG": "/react-website-portafolio/static/media/todoList.4e1240cd.JPG",
-    "static/media/video-1.59e75226.mp4": "/react-website-portafolio/static/media/video-1.59e75226.mp4"
+    "static/media/video-2.39e6c79b.mp4": "/react-website-portafolio/static/media/video-2.39e6c79b.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.3a3fca81.js",
     "static/js/2.d4bbfce0.chunk.js",
     "static/css/main.db0b11f2.chunk.css",
-    "static/js/main.5f17b6ab.chunk.js"
+    "static/js/main.b85f09b9.chunk.js"
   ]
 }
