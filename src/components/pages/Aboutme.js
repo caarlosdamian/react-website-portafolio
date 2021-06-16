@@ -10,7 +10,7 @@ export default function Aboutme() {
       <p>
       I seek to have
         fun and create beautiful web applications. I'm funny, I make cool
-        coffee, what are you waiting for to contact me?{" "}
+        coffee, what are you waiting for to contact me?{" "},
       </p>
     </div>
   );
